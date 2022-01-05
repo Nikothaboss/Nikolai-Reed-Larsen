@@ -21,6 +21,12 @@
       </a>
       <br>JavaScript
     </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="48" height="48"/>
+      </a>
+      <br>React
+    </td>
 
   </tr>
 </table>
