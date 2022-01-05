@@ -27,6 +27,13 @@
       </a>
       <br>React
     </td>
+        </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://itelofilho.gallerycdn.vsassets.io/extensions/itelofilho/chakra-ui-cheatsheet/0.1.2/1602346378840/Microsoft.VisualStudio.Services.Icons.Default" width="48" height="48"/>
+      </a>
+      <br>Chakra UI
+    </td>
 
   </tr>
 </table>
