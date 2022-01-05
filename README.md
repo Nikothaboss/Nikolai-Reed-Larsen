@@ -19,7 +19,7 @@
 <!--         <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" /> -->
         <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
       </a>
-      <br>C#&nbsp;(Core)
+      <br>JavaScript
     </td>
 
   </tr>
