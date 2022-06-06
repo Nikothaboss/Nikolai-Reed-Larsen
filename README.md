@@ -1,12 +1,13 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Nikolai</h1>
-<h3 align="left">I am a Front end Developer curretnly working in React</h3>
+<h3 align="left">I am a Front end Developer</h3>
 
-- :office: &nbsp;I'm currently studying and working at **Noroff**
-- :seedling: &nbsp;I’m currently learning **React**
+- :office: &nbsp;I recently finished my front end studies at **Noroff** where I also worked as a mentor 
+- :seedling: &nbsp;I’m currently learning **Node and Express**
 - :speech_balloon: &nbsp;I like to talk about **Programming** and **Gaming**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;Connect with me on [**LinkedIn**](https://www.linkedin.com/in/nikolai-reed-larsen-681697214/)
 
-<br>
+
+</em></p>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
@@ -34,6 +35,35 @@
       </a>
       <br>Chakra UI
     </td>
-
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="48" height="48"/>
+      </a>
+      <br>Next.js
+    </td>
   </tr>
 </table>
+
+</em></p>
+
+### <img src="https://media2.giphy.com/media/YOwLMjFlJhp4xVNWKC/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const nikolai = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "HTML/CSS", "Python"],
+    askMeAbout: ["web dev", "tech", "gaming"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Strapi", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        databases: ["postgres", "MySql", "sqlite"],
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Looking for work",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
