@@ -57,8 +57,9 @@ const nikolai = {
         backEnd: {
             js: ["Node", "Strapi", "Express"],
         },
-        mobileApp: {
-            native: ["Android Development"]
+        frontEnd: {
+            frameworks: ["React", "Next"],
+            UI: ["Styled Components", "Charka UI", "Sass/Scss", "Tailwind", "Three.js"]
         },
         databases: ["postgres", "MySql", "sqlite"],
     },
